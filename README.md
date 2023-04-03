@@ -4,7 +4,7 @@ Bu kütüphane Türkçe cümlelerinizde cümlenin olumlu/olumsuz olduğunu algı
 
 ## Kurulum
 
-Install with [npm](https://www.npmjs.com/):
+Install with [npm]([https://www.npmjs.com/](https://www.npmjs.com/package/@hsnlbnan/sentiment-analysis-turkish)):
 
     npm install @hsnlbnan/sentiment-analysis-turkish
 
@@ -26,7 +26,7 @@ console.log(findSentiment("O, bugün üzgün."));
 
 Pull request'e ve yıldızlara daima açığız.
 
-For bugs and feature requests, [please create an issue](https://github.com/azu/npm-github-package-example/issues).
+Hata veya geliştirme için , [lütfen issue oluşturun](https://github.com/hsnlbnan/sentiment-analysis-turkish/issues).
 
 1. Fork'la!
 2. Branchini oluştur.
@@ -40,4 +40,4 @@ For bugs and feature requests, [please create an issue](https://github.com/azu/n
 
 ## Lisans
 
-MIT © azu
+MIT © hsnlbnan
